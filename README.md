@@ -20,14 +20,16 @@ B1: Viết 1 bài toán dạng đơn giản như ở https://github.com/anthule1
 
 2.2.3..3.
      
-   -Xử lí: 
-           1.1. Xây dựng mô hình bài toán
-           1.2. Xây dựng mô hình giải 
+   Xử lí: 
+          
+          1.1. Xây dựng mô hình bài toán
+          1.2. Xây dựng mô hình giải 
            
 Tạm xong với trường hợp small 9x9 như ở input_reader.ipynb
 
 B2: muốn đưa trường hợp lớn hơn, như là 14x22 hoặc 25x25. Thử sử dụng công cụ xử lí ảnh
-       -    
+       -  
+       
            1.1. Import bức ảnh, chuyển sang numpy array và grayscale
            1.2. Cắt bỏ phần viền trắng
            1.3. Chia thành nxm bức ảnh con (nxm là kích thước của bức ảnh)
